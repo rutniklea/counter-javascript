@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.col-md-6 {
+    border: 8px solid   black;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+button {
+    margin: 20px !important;
+    border: 2px solid black !important;
+}
+
+h1 {
+    font-weight: border !important;
+    margin: 20px !important;
+}
+
+.footer {
+    height: 50px;
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+}
